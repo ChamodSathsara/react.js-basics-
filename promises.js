@@ -37,4 +37,7 @@ bath()
   .then((result) => {
     console.log(result);
     console.log(`All Done`);
+  })
+  .catch((error) => {
+    console.log(error);
   });
