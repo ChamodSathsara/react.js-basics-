@@ -1,0 +1,9 @@
+mutable- wenas karanna pluwan (let,var)
+imiutable- wenas karanna baha (const)
+
+pure function - wenas wenne na ochchra wara gananak ekama parameters dunnath
+inpure function- meka wens wenwa (now time ekath ekka gaddi time eka wens wena nisa return value eka wens wenwa)
+
+composition - functions kipayak ekathu karala ekama function ekak hada ganna ekata thama compositions kyla kiyanne
+
+
